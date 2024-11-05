@@ -87,7 +87,7 @@ JavaScript, TypeScript, React, npm, webpack, yarn, babel, Python Flask, PyTest, 
 
 ## languages
 
-**fluent**: EN, CS \| **learning**: RU, DE, CN
+**fluent**: EN, CS | **learning**: RU, DE, CN
 
 ## education
 
